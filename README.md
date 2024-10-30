@@ -1,7 +1,7 @@
 ## Hi there 👋
 Hi, I’m Henry.
 
-I’m an undergraduate student studying computer science, passionate about software development and web technologies. I love diving into projects that challenge me, whether it’s building web applications with Next.js and Three.js or developing backend services using C++. Currently, I'm working on a Javascript interpreter and bytecode compiler, implemented in Java. Check out my portfolio at [henrygan.dev/portfolio](henrygan.dev/portfolio)!
+I’m an undergraduate student studying computer science, passionate about software development and web technologies. I love diving into projects that challenge me, whether it’s building web applications with Next.js and Three.js or developing backend services using C++. Currently, I'm working on a Javascript interpreter and bytecode compiler, implemented in Java. You can find this project, and other interesting ones at [henrygan.dev/portfolio](henrygan.dev/portfolio)!
 
 When I’m not coding, you can find me staying active, exploring new places, playing the piano, or getting lost in a good book. I’m always eager to learn new things and collaborate on projects that make a meaningful impact. Feel free to check out my repositories or reach out!
 
