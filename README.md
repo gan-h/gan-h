@@ -8,7 +8,12 @@ When I’m not coding, you can find me staying active, exploring new places, pla
 ## Portfolio:
  [henrygan.dev/portfolio](https://henrygan.dev/portfolio/)
 
-## My Github Statistics
+## 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gan-h&layout=compact)
-![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gan-h&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=170 align="center" src="https://streak-stats.demolab.com?user=gan-h&hide_border=true&border_radius=5&card_height=180&card_width=300&hide_longest_streak=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
