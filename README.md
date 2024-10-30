@@ -14,6 +14,6 @@ When I’m not coding, you can find me staying active, exploring new places, pla
   <img height=170 align="center" src="https://streak-stats.demolab.com?user=gan-h&hide_border=true&border_radius=5&card_height=180&card_width=300&hide_longest_streak=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gan-h&layout=compact&langs_count=8&card_width=320" />
 </a>
 
