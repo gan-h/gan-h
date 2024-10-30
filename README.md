@@ -10,5 +10,5 @@ When I’m not coding, you can find me staying active, exploring new places, pla
 
 ## My Github Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gan-h&hide_border=true&border_radius=10&card_height=190&hide_longest_streak=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gan-h&layout=compact)
 ![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gan-h&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
