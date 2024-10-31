@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I’m Henry.
+Hi, I’m Henry. Thanks you for checking out my profile!
 
 I’m an undergraduate student studying computer science, passionate about software development and web technologies. I love diving into projects that challenge me, whether it’s building web applications with Next.js and Three.js or developing backend services using C++. Currently, I'm working on a Javascript interpreter and bytecode compiler, implemented in Java.
 
