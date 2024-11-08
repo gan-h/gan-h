@@ -5,9 +5,6 @@ I’m an undergraduate student studying computer science, passionate about softw
 
 When I’m not coding, you can find me staying active, exploring new places, playing the piano, or getting lost in a good book. I’m always eager to learn new things and collaborate on projects that make a meaningful impact. Feel free to check out my repositories or reach out!
 
-## Portfolio:
- [henrygan.dev/portfolio](https://henrygan.dev/portfolio)
-
 ## 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
